@@ -100,5 +100,3 @@ else
   echo "not notifying'"
 fi
 
-notify::send "this is a test"
-
